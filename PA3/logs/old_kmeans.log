@@ -1,0 +1,395 @@
+2025-06-02 16:52:56,777 - INFO - Test - <module> - HI
+2025-06-02 16:52:56,777 - INFO - Test - <module> - TEST
+2025-06-02 16:52:56,777 - WARNING - Test - <module> - TEST
+2025-06-02 16:52:56,777 - ERROR - Test - <module> - TEST
+2025-06-02 16:52:56,777 - DEBUG - Test - <module> - TEST
+2025-06-02 16:53:05,716 - INFO - Test - <module> - HI
+2025-06-02 16:53:05,716 - INFO - Test - <module> - TEST
+2025-06-02 16:53:05,716 - WARNING - Test - <module> - TEST
+2025-06-02 16:53:05,716 - ERROR - Test - <module> - TEST
+2025-06-02 16:53:05,716 - DEBUG - Test - <module> - TEST
+2025-06-02 16:53:05,716 - CRITICAL - Test - <module> - TEST
+2025-06-02 18:11:17,031 - INFO - __main__ - <module> - Restarting from imports
+2025-06-02 18:11:17,105 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-02 18:13:13,139 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-02 18:13:13,246 - INFO - KMeans - fit - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-02 18:14:38,181 - INFO - KMeans - fit - Converged after 54 iterations
+2025-06-02 18:14:38,182 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-02 18:17:00,569 - INFO - KMeans - fit - Fitting KMeans model with 25 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-02 18:31:35,442 - INFO - KMeans - fit - Converged after 237 iterations
+2025-06-02 18:31:35,443 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-02 18:31:35,614 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-05 11:53:08,494 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 11:53:29,652 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 11:55:39,349 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 11:55:45,725 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:56:22,473 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:56:27,910 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:56:39,864 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:58:25,514 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:59:26,854 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 11:59:50,179 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 11:59:52,963 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 12:00:19,015 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 12:00:19,078 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 12:02:12,103 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 12:02:12,197 - INFO - KMeans - fit_classic - Fitting KMeans model with 25 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 12:10:01,715 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 12:10:59,246 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 5 tables and 10 hash size for n=581012 samples
+2025-06-05 12:12:42,771 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 12:12:42,929 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 12:17:23,636 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 64 tables and 10 hash size for n=581012 samples
+2025-06-05 12:20:54,085 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 12:20:54,814 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 12:21:13,870 - INFO - KMeans - fit_classic - Fitting KMeans model with 25 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 12:32:22,147 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 12:32:27,507 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 12:34:17,040 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 12:34:23,708 - INFO - KMeans - fit_classic - Fitting KMeans model with 25 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 12:49:54,779 - INFO - KMeans - fit_classic - Converged after 257 iterations
+2025-06-05 12:49:54,780 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 12:49:54,980 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-05 12:51:46,193 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 128 tables and 27 hash size for n=581012 samples
+2025-06-05 12:59:27,983 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 12:59:29,154 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 12:59:29,318 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-05 19:29:44,015 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:29:44,083 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 19:31:35,131 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 19:31:35,238 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:19,304 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:22,645 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:23,245 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:23,847 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:24,425 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:24,918 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:25,381 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:29,630 - INFO - KMeans - fit_classic - Fitting KMeans model with 11 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:37,984 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:34:56,735 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:35:10,336 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:35:36,405 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:36:58,878 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:37:02,506 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:41:32,353 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:41:33,114 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:41:49,100 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:42:02,841 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:42:07,758 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:42:11,425 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:42:34,771 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:42:34,778 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 19:44:26,904 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 19:44:27,072 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:45:30,858 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:45:42,662 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:45:49,726 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:45:53,241 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:45:55,744 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:46:32,675 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:47:01,082 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:47:03,922 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:47:05,091 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:47:17,594 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:47:19,565 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:49:33,052 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:51:31,335 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:53:02,892 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:53:02,901 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 19:54:53,884 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 19:54:54,021 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:55:35,976 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:55:35,984 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 19:55:44,108 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 19:55:44,172 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 19:57:37,192 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 19:57:37,347 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 19:59:55,582 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 20:00:11,765 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 20:01:41,424 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 20:01:53,515 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 20:02:02,004 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 20:02:02,011 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 20:03:56,760 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 20:03:56,915 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 20:04:46,903 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-05 20:04:46,904 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:04:51,535 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 128 tables and 27 hash size for n=581012 samples
+2025-06-05 20:06:07,942 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 64 tables and 10 hash size for n=581012 samples
+2025-06-05 20:09:31,783 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 20:09:32,468 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:14:33,567 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 128 tables and 4 hash size for n=581012 samples
+2025-06-05 20:20:26,189 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 20:20:27,087 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:21:35,080 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 64 tables and 4 hash size for n=581012 samples
+2025-06-05 20:25:02,088 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 20:25:02,618 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:25:25,698 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-05 20:27:03,801 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 20:27:04,018 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:27:41,180 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 20:54:52,180 - INFO - KMeans - fit_classic - Converged after 342 iterations
+2025-06-05 20:54:52,181 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 20:54:52,278 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-05 20:54:56,804 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-05 21:01:13,031 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 21:01:13,271 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:01:13,365 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-05 21:01:54,597 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 21:02:04,831 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 21:02:34,631 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 21:02:34,639 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 21:04:24,367 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 21:04:24,499 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 21:05:14,072 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-05 21:05:14,073 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:05:18,689 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-05 21:06:56,569 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 21:06:56,784 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:09:57,718 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 21:10:09,922 - INFO - __main__ - <module> - Restarting from imports
+2025-06-05 21:10:09,930 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-05 21:11:59,447 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-05 21:11:59,593 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-05 21:12:49,132 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-05 21:12:49,134 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:12:53,843 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-05 21:14:32,253 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-05 21:14:32,468 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:14:52,321 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples.
+2025-06-05 21:14:52,322 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-05 21:15:15,851 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples.
+2025-06-05 21:15:15,852 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 21:06:39,974 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 21:06:41,546 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-06 21:08:51,392 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-06 21:08:59,349 - INFO - KMeans - _fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples.
+2025-06-06 21:08:59,350 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 21:13:03,835 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 21:29:05,672 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 21:36:14,903 - INFO - KMeans - _fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples.
+2025-06-06 21:36:14,918 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 22:36:43,143 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 22:36:43,226 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-06 22:38:35,693 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-06 22:38:35,790 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:39:25,955 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-06 22:40:58,316 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:41:08,728 - INFO - KMeans - fit_classic - Converged after 11 iterations
+2025-06-06 22:42:30,139 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:42:31,986 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 22:45:55,258 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:45:57,075 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 22:46:40,241 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 22:46:40,307 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-06 22:48:28,730 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-06 22:48:28,862 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:49:18,958 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-06 22:49:18,996 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 50.09648348399969 seconds with 53 iterations - NMI: 0.07515176921853249 - num distances: 0
+2025-06-06 22:49:19,024 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:49:29,322 - INFO - KMeans - fit_classic - Converged after 11 iterations
+2025-06-06 22:49:29,359 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 10.29739063300076 seconds with 11 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 22:49:29,381 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:49:31,209 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 22:49:31,245 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.827555564999784 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 22:49:31,273 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:49:33,101 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 22:49:33,138 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8279923730005976 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 22:49:33,160 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 22:49:34,983 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 22:49:35,019 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8228863459989952 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 22:59:51,144 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 22:59:51,152 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-06 23:01:41,810 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-06 23:01:41,949 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:02:36,400 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-06 23:02:36,440 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 54.451163576999534 seconds with 53 iterations - NMI: 0.07515176921853249 - num distances: 0
+2025-06-06 23:02:36,470 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:02:49,082 - INFO - KMeans - fit_classic - Converged after 11 iterations
+2025-06-06 23:02:49,124 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 12.612645396999142 seconds with 11 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:02:49,148 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:02:51,218 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:02:51,255 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.06991945000118 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:02:51,284 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:02:53,462 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:02:53,503 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.1782885339998757 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:02:53,526 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:02:56,094 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:02:56,138 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.570735438999691 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:06:18,923 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:06:21,433 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:06:21,480 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.5099399179998727 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:06:21,508 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:06:24,040 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:06:24,084 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.532697526999982 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:06:24,110 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:06:26,370 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:06:26,414 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.26037077699948 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:06:26,443 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:06:29,047 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:06:29,098 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.6045194510006695 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:06:29,122 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:06:31,666 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:06:31,712 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 2.5450809949998074 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:12:29,918 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:12:31,733 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:12:31,772 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.814993174999472 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:12:31,800 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:12:33,616 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:12:33,654 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8153054300000804 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:12:33,678 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:12:35,512 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:12:35,551 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8333934299989778 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:12:35,579 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:12:37,391 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:12:37,429 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.811754722999467 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:12:37,452 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:12:39,257 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:12:39,296 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8048171240006923 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:37,831 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:39,662 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:39,700 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8315041589994507 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:39,729 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:41,549 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:41,589 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8203823429994372 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:41,618 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:43,450 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:43,490 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8317694349989324 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:43,519 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:45,348 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:45,385 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8286674470000435 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:45,408 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:47,217 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:47,255 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8085383739999088 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:47,283 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-06 23:13:49,085 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-06 23:13:49,124 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 1.8019344460008142 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 0
+2025-06-06 23:13:49,126 - INFO - KMeans - plot - NMI score: 0.0751
+2025-06-06 23:13:49,126 - INFO - KMeans - plot - Runtime: 1.8019 seconds
+2025-06-06 23:13:49,127 - INFO - KMeans - plot - Iterations: 2
+2025-06-06 23:13:49,127 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-06 23:13:49,128 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-06 23:13:53,942 - INFO - __main__ - <module> - Classical K-Means STATS: AVG NMI=0.0751218231764884 - AVG TIME=1.8241723515995545 - NUM DISTANCE CALCULATIONS = 0
+2025-06-06 23:24:55,965 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:25:44,921 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:26:18,254 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:49:52,179 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-06 23:51:46,909 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:52:06,334 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:52:22,709 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 23:52:29,645 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:53:03,738 - INFO - __main__ - <module> - Restarting from imports
+2025-06-06 23:53:05,000 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-06 23:54:55,131 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-06 23:56:33,148 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-06 23:59:57,652 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-06 23:59:58,168 - INFO - KMeans - fit_with_lsh - KMeans with LSH done - took: 203.86415516700072 seconds - 2 iterations - NMI: 0.05751217588648395 - num distance calculations: 5636510
+2025-06-06 23:59:58,169 - INFO - KMeans - plot - NMI score: 0.0575
+2025-06-06 23:59:58,170 - INFO - KMeans - plot - Runtime: 203.8642 seconds
+2025-06-06 23:59:58,170 - INFO - KMeans - plot - Iterations: 2
+2025-06-06 23:59:58,171 - INFO - KMeans - plot - Distance calculations: 5636510
+2025-06-06 23:59:58,171 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 00:00:05,331 - INFO - KMeans - fit_classic - Fitting KMeans model with 15 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:03:53,308 - INFO - KMeans - fit_classic - Converged after 158 iterations
+2025-06-07 00:03:53,354 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 227.9775332579993 seconds with 158 iterations - NMI: 0.07468997068590123 - num distances: 0
+2025-06-07 00:15:26,992 - INFO - __main__ - <module> - Restarting from imports
+2025-06-07 00:15:27,000 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-07 00:17:18,159 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-07 00:17:18,302 - INFO - KMeans - fit_classic - Fitting KMeans model with 15 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:20:37,801 - INFO - KMeans - fit_classic - Converged after 126 iterations
+2025-06-07 00:20:37,863 - INFO - KMeans - fit_classic - KMeans Lloyd done - took 199.49895865399958 seconds with 126 iterations - NMI: 0.0744374772305643 - num distances: 1098112680
+2025-06-07 00:20:37,951 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:20:45,557 - INFO - __main__ - <module> - Restarting from imports
+2025-06-07 00:20:45,565 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-07 00:22:41,856 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-07 00:22:42,004 - INFO - KMeans - fit_classic - Fitting KMeans model with 15 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:25:38,427 - INFO - KMeans - fit_classic - Converged after 126 iterations
+2025-06-07 00:25:38,469 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 176.42341414399925 seconds with 126 iterations - NMI: 0.0744374772305643 - num distances: 1098112680
+2025-06-07 00:25:38,504 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:36,489 - INFO - KMeans - fit_classic - Converged after 62 iterations
+2025-06-07 00:26:36,526 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 57.98529654899903 seconds with 62 iterations - NMI: 0.0780601938115603 - num distances: 360227440
+2025-06-07 00:26:36,548 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:38,364 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:26:38,401 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8160873439992429 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:26:38,430 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:40,240 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:26:40,276 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.809621407999657 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:26:40,298 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:42,108 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:26:42,144 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8096983450013795 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:26:42,172 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:43,983 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:26:44,020 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8105680230000871 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:26:44,042 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:26:45,917 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:26:45,956 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8749902380004642 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:26:45,958 - INFO - KMeans - plot - NMI score: 0.0781
+2025-06-07 00:26:45,959 - INFO - KMeans - plot - Runtime: 1.8750 seconds
+2025-06-07 00:26:45,959 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 00:26:45,960 - INFO - KMeans - plot - Distance calculations: 11620240
+2025-06-07 00:26:45,960 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 00:26:50,633 - INFO - __main__ - <module> - Classical K-Means STATS: AVG NMI=0.07805986936233744 - AVG TIME=13.04625433379988 - NUM DISTANCE CALCULATIONS = 11620240
+2025-06-07 00:26:50,754 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 32 tables and 4 hash size for n=581012 samples
+2025-06-07 00:28:32,471 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:34,379 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:34,417 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.9082709020003676 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:34,442 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:36,311 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:36,349 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8687214130004577 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:36,380 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:38,219 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:38,256 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8388580729988462 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:38,279 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:40,099 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:40,137 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8198224869993282 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:40,166 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:41,999 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:42,036 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8330110339993553 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:42,059 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:28:43,895 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:28:43,932 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8354036720011209 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:28:43,934 - INFO - KMeans - plot - NMI score: 0.0781
+2025-06-07 00:28:43,934 - INFO - KMeans - plot - Runtime: 1.8354 seconds
+2025-06-07 00:28:43,935 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 00:28:43,935 - INFO - KMeans - plot - Distance calculations: 11620240
+2025-06-07 00:28:43,935 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 00:32:24,363 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 00:32:24,390 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:26,163 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:26,200 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.7731361660007678 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:26,201 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 00:32:26,227 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:27,931 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:27,970 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.704020249999303 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:27,972 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 00:32:27,995 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:29,745 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:29,782 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.7504251270001987 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:29,782 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 00:32:29,806 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:31,509 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:31,546 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.7028761340006895 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:31,548 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 00:32:31,571 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:33,369 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:33,408 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.7984144789988932 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:33,409 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 00:32:33,409 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-07 00:32:33,435 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:32:35,127 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 00:32:35,164 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.692507577001379 seconds with 2 iterations - NMI: 0.07805978825003172 - num distances: 11620240
+2025-06-07 00:32:35,165 - INFO - KMeans - plot - NMI score: 0.0781
+2025-06-07 00:32:35,166 - INFO - KMeans - plot - Runtime: 1.6925 seconds
+2025-06-07 00:32:35,166 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 00:32:35,166 - INFO - KMeans - plot - Distance calculations: 11620240
+2025-06-07 00:32:35,167 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 00:32:39,780 - INFO - __main__ - <module> - Classical K-Means STATS: AVG NMI=0.07805978825003172 - AVG TIME=1.7457744311999703 - NUM DISTANCE CALCULATIONS = 11620240
+2025-06-07 00:32:39,789 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 00:32:39,811 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 00:35:16,445 - INFO - __main__ - <module> - Restarting from imports
+2025-06-07 00:35:16,508 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-07 00:37:05,621 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-07 00:37:05,705 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 00:37:05,726 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 00:41:24,729 - INFO - __main__ - <module> - Restarting from imports
+2025-06-07 00:41:24,735 - INFO - __main__ - <module> - Fetching UCI repository...

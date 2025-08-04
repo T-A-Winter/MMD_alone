@@ -1,0 +1,284 @@
+2025-06-07 00:43:13,719 - INFO - __main__ - <module> - Restarting from imports
+2025-06-07 00:43:13,793 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-07 00:45:02,971 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-07 00:45:03,088 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 00:45:03,118 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:12:07,084 - INFO - KMeans - fit_classic - Converged after 358 iterations
+2025-06-07 01:12:07,130 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1623.966807629 seconds with 358 iterations - NMI: 0.10144822641381834 - num distances: 10400114800
+2025-06-07 01:12:07,131 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:12:07,159 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:13:01,529 - INFO - KMeans - fit_classic - Converged after 12 iterations
+2025-06-07 01:13:01,574 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 54.370746436001355 seconds with 12 iterations - NMI: 0.10137930362278673 - num distances: 348607200
+2025-06-07 01:13:01,576 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:13:01,603 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:13:10,612 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 01:13:10,657 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 9.009008217999508 seconds with 2 iterations - NMI: 0.10137930362278673 - num distances: 58101200
+2025-06-07 01:13:10,659 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:13:10,686 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:13:19,677 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 01:13:19,722 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 8.991204445999756 seconds with 2 iterations - NMI: 0.10137930362278673 - num distances: 58101200
+2025-06-07 01:13:19,724 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:13:19,752 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:13:28,735 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 01:13:28,779 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 8.983314442997653 seconds with 2 iterations - NMI: 0.10137930362278673 - num distances: 58101200
+2025-06-07 01:13:28,781 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:13:28,781 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-07 01:13:28,810 - INFO - KMeans - fit_classic - Fitting KMeans model with 50 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-07 01:13:37,790 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-07 01:13:37,834 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 8.97999161700136 seconds with 2 iterations - NMI: 0.10137930362278673 - num distances: 58101200
+2025-06-07 01:13:37,836 - INFO - KMeans - plot - NMI score: 0.1014
+2025-06-07 01:13:37,837 - INFO - KMeans - plot - Runtime: 8.9800 seconds
+2025-06-07 01:13:37,837 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 01:13:37,837 - INFO - KMeans - plot - Distance calculations: 58101200
+2025-06-07 01:13:37,838 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 01:13:37,953 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-07 01:13:42,443 - INFO - __main__ - <module> - Classical K-Means STATS: AVG NMI=0.10139308818099306 - AVG TIME=341.0642162343996 - NUM DISTANCE CALCULATIONS = 58101200
+2025-06-07 01:13:42,488 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 01:13:42,516 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:20:06,794 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:20:06,927 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 384.365219860003 seconds - 2 iterations - NMI: 0.09562609432880985 - num distance calculations: 56365100
+2025-06-07 01:20:07,285 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:20:07,312 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:26:32,354 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:26:32,487 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 385.13002244600284 seconds - 2 iterations - NMI: 0.09547668047782162 - num distance calculations: 56365100
+2025-06-07 01:26:32,622 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:26:32,654 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:32:56,540 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:32:56,673 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 383.9725432289997 seconds - 2 iterations - NMI: 0.09544913246339591 - num distance calculations: 56365100
+2025-06-07 01:32:56,816 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:32:56,844 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:39:23,548 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:39:23,682 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 386.792849731999 seconds - 2 iterations - NMI: 0.09541597839690973 - num distance calculations: 56365100
+2025-06-07 01:39:23,821 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:39:23,848 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:45:47,917 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:45:48,048 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 384.15512474000207 seconds - 2 iterations - NMI: 0.09541815851082908 - num distance calculations: 56365100
+2025-06-07 01:45:48,193 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:45:48,194 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-07 01:45:48,222 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-07 01:52:14,124 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-07 01:52:14,258 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 385.99092223099797 seconds - 2 iterations - NMI: 0.09539797857308428 - num distance calculations: 56365100
+2025-06-07 01:52:14,396 - INFO - KMeans - plot - NMI score: 0.0954
+2025-06-07 01:52:14,396 - INFO - KMeans - plot - Runtime: 385.9909 seconds
+2025-06-07 01:52:14,397 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 01:52:14,397 - INFO - KMeans - plot - Distance calculations: 56365100
+2025-06-07 01:52:14,397 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 01:52:14,489 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-07 01:52:19,031 - INFO - __main__ - <module> - LSH K-Means STATS: AVG NMI=0.10137930362278673 - AVG TIME=8.97999161700136 - NUM DISTANCE CALCULATIONS = 58101200
+2025-06-07 01:52:19,076 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 01:52:19,105 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:52:40,576 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 21.41711870099971 - 2 iterations - NMI = 0.1046377696724267
+2025-06-07 01:52:40,621 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:52:40,660 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:52:56,362 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 15.661643835999712 - 3 iterations - NMI = 0.10185444392606506
+2025-06-07 01:52:56,394 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:52:56,422 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:05,032 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 8.570296557001711 - 3 iterations - NMI = 0.10490474551249965
+2025-06-07 01:53:05,068 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:53:05,095 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:13,536 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 8.40200329900108 - 2 iterations - NMI = 0.1052010217077712
+2025-06-07 01:53:13,572 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:53:13,599 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:22,023 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 8.382293861999642 - 3 iterations - NMI = 0.09850924422979272
+2025-06-07 01:53:22,059 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:53:22,087 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:30,425 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 8.294729643999744 - 2 iterations - NMI = 0.10481801151447291
+2025-06-07 01:53:30,460 - INFO - KMeans - plot - NMI score: 0.1048
+2025-06-07 01:53:30,461 - INFO - KMeans - plot - Runtime: 8.2947 seconds
+2025-06-07 01:53:30,461 - INFO - KMeans - plot - Iterations: 2
+2025-06-07 01:53:30,462 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-07 01:53:30,462 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 01:53:30,568 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-07 01:53:35,043 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.10302144500971107 - AVG TIME=12.48667125100037 - WITH M=100
+2025-06-07 01:53:35,044 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 01:53:35,073 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:43,412 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.295230816002004 - 12 iterations - NMI = 0.10193118106350854
+2025-06-07 01:53:43,446 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:53:43,473 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:53:51,801 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.286845826998615 - 15 iterations - NMI = 0.10216585915309462
+2025-06-07 01:53:51,836 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:53:51,864 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:00,231 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.327331304000836 - 16 iterations - NMI = 0.10490592738898148
+2025-06-07 01:54:00,264 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:00,291 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:08,655 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.321918745001312 - 10 iterations - NMI = 0.10023449893103137
+2025-06-07 01:54:08,688 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:08,716 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:17,164 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.404220453998278 - 13 iterations - NMI = 0.10099293539492381
+2025-06-07 01:54:17,203 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:17,234 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:25,898 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 8.624297418002243 - 11 iterations - NMI = 0.09492686744913403
+2025-06-07 01:54:25,934 - INFO - KMeans - plot - NMI score: 0.0949
+2025-06-07 01:54:25,934 - INFO - KMeans - plot - Runtime: 8.6243 seconds
+2025-06-07 01:54:25,935 - INFO - KMeans - plot - Iterations: 11
+2025-06-07 01:54:25,936 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-07 01:54:25,936 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 01:54:26,030 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-07 01:54:30,517 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.10204608038630796 - AVG TIME=8.32710942920021 - WITH M=1000
+2025-06-07 01:54:30,518 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-07 01:54:30,545 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:39,511 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 8.927983659003075 - 101 iterations - NMI = 0.10075094437356644
+2025-06-07 01:54:39,547 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:39,575 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:48,566 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 8.949899372997606 - 74 iterations - NMI = 0.1048931206319433
+2025-06-07 01:54:48,601 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:48,629 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:54:57,716 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 9.04710092499954 - 77 iterations - NMI = 0.10327493000727905
+2025-06-07 01:54:57,752 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:54:57,780 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:55:06,718 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 8.897367918001692 - 45 iterations - NMI = 0.10200537203690105
+2025-06-07 01:55:06,753 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:55:06,781 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:55:15,817 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 8.995356458999595 - 89 iterations - NMI = 0.10404956427773868
+2025-06-07 01:55:15,853 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-07 01:55:15,854 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-07 01:55:15,881 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=50, alpha=2, datashape shape=(581012, 54)
+2025-06-07 01:55:24,902 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 8.980868396000005 - 52 iterations - NMI = 0.10240108385092221
+2025-06-07 01:55:24,938 - INFO - KMeans - plot - NMI score: 0.1024
+2025-06-07 01:55:24,938 - INFO - KMeans - plot - Runtime: 8.9809 seconds
+2025-06-07 01:55:24,939 - INFO - KMeans - plot - Iterations: 52
+2025-06-07 01:55:24,939 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-07 01:55:24,940 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-07 01:55:25,032 - INFO - KMeans - plot - Omitting legend due to large number of clusters
+2025-06-07 01:55:29,579 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.10299478626548571 - AVG TIME=8.963541666800301 - WITH M=10000
+2025-06-16 17:07:04,509 - INFO - __main__ - <module> - Restarting from imports
+2025-06-16 17:07:18,764 - INFO - __main__ - <module> - Restarting from imports
+2025-06-16 17:07:18,771 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-16 17:09:51,322 - INFO - __main__ - <module> - Restarting from imports
+2025-06-16 17:09:51,329 - INFO - __main__ - <module> - Fetching UCI repository...
+2025-06-16 17:11:59,103 - INFO - __main__ - <module> - Done fetching UCI repository.
+2025-06-16 17:11:59,249 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-16 17:11:59,282 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:12:49,242 - INFO - KMeans - fit_classic - Converged after 53 iterations
+2025-06-16 17:12:49,289 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 49.96032841100009 seconds with 53 iterations - NMI: 0.07515176921853249 - num distances: 307936360
+2025-06-16 17:12:49,290 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:12:49,317 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:12:59,691 - INFO - KMeans - fit_classic - Converged after 11 iterations
+2025-06-16 17:12:59,728 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 10.37430079700016 seconds with 11 iterations - NMI: 0.0751218231764884 - num distances: 63911320
+2025-06-16 17:12:59,729 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:12:59,756 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:13:01,589 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-16 17:13:01,626 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8330991769998946 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 11620240
+2025-06-16 17:13:01,627 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:13:01,654 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:13:03,486 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-16 17:13:03,522 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8315760039999986 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 11620240
+2025-06-16 17:13:03,524 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:13:03,550 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:13:05,380 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-16 17:13:05,416 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.8292357469999843 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 11620240
+2025-06-16 17:13:05,417 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:13:05,418 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-16 17:13:05,446 - INFO - KMeans - fit_classic - Fitting KMeans model with 10 clusters on 581012 samples with dimensions (581012, 54)
+2025-06-16 17:13:07,280 - INFO - KMeans - fit_classic - Converged after 2 iterations
+2025-06-16 17:13:07,317 - INFO - KMeans - fit_classic - KMeans Lloyd DONE - took 1.834908834000089 seconds with 2 iterations - NMI: 0.0751218231764884 - num distances: 11620240
+2025-06-16 17:13:07,319 - INFO - KMeans - plot - NMI score: 0.0751
+2025-06-16 17:13:07,319 - INFO - KMeans - plot - Runtime: 1.8349 seconds
+2025-06-16 17:13:07,319 - INFO - KMeans - plot - Iterations: 2
+2025-06-16 17:13:07,320 - INFO - KMeans - plot - Distance calculations: 11620240
+2025-06-16 17:13:07,320 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-16 17:13:11,912 - INFO - __main__ - <module> - Classical K-Means STATS: AVG NMI=0.07512781238489721 - AVG TIME=13.165708027200026 - NUM DISTANCE CALCULATIONS = 11620240
+2025-06-16 17:13:11,980 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-16 17:13:12,010 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:14:48,961 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:14:49,065 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 97.0182353629998 seconds - 2 iterations - NMI: 0.06994988125456215 - num distance calculations: 11273020
+2025-06-16 17:14:49,200 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:14:49,229 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:16:26,708 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:16:26,817 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 97.54509415300026 seconds - 2 iterations - NMI: 0.06969189317461821 - num distance calculations: 11273020
+2025-06-16 17:16:26,952 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:16:26,980 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:18:03,565 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:18:03,673 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 96.65254202599999 seconds - 2 iterations - NMI: 0.06960967077947619 - num distance calculations: 11273020
+2025-06-16 17:18:03,809 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:18:03,837 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:19:40,618 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:19:40,725 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 96.84746660100018 seconds - 2 iterations - NMI: 0.06958414067402563 - num distance calculations: 11273020
+2025-06-16 17:19:40,864 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:19:40,894 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:21:21,091 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:21:21,199 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 100.26455117800015 seconds - 2 iterations - NMI: 0.06955932933484854 - num distance calculations: 11273020
+2025-06-16 17:21:21,331 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:21:21,331 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-16 17:21:21,365 - INFO - KMeans - fit_with_lsh - Starting KMeans with LSH with 16 tables and 4 hash size for n=581012 samples
+2025-06-16 17:22:58,324 - INFO - KMeans - fit_with_lsh - LSH-KMeans converged in 2 iterations.
+2025-06-16 17:22:58,438 - INFO - KMeans - fit_with_lsh - KMeans with LSH DONE - took: 97.02576656999963 seconds - 2 iterations - NMI: 0.06955622267909009 - num distance calculations: 11273020
+2025-06-16 17:22:58,576 - INFO - KMeans - plot - NMI score: 0.0696
+2025-06-16 17:22:58,577 - INFO - KMeans - plot - Runtime: 97.0258 seconds
+2025-06-16 17:22:58,577 - INFO - KMeans - plot - Iterations: 2
+2025-06-16 17:22:58,578 - INFO - KMeans - plot - Distance calculations: 11273020
+2025-06-16 17:22:58,578 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-16 17:23:03,155 - INFO - __main__ - <module> - LSH K-Means STATS: AVG NMI=0.0751218231764884 - AVG TIME=1.834908834000089 - NUM DISTANCE CALCULATIONS = 11620240
+2025-06-16 17:23:03,213 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-16 17:23:03,244 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:05,078 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.7989679410002282 - 5 iterations - NMI = 0.07087679130143998
+2025-06-16 17:23:05,086 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:05,113 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:06,943 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.7951223969998864 - 10 iterations - NMI = 0.07624862685834048
+2025-06-16 17:23:06,951 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:06,978 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:08,782 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.7693595910000113 - 4 iterations - NMI = 0.07822775299941767
+2025-06-16 17:23:08,789 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:08,816 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:10,626 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.7738458570001967 - 7 iterations - NMI = 0.07087245977069326
+2025-06-16 17:23:10,634 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:10,661 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:12,509 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.8052869709999868 - 6 iterations - NMI = 0.07407861732521177
+2025-06-16 17:23:12,516 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:12,544 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=100, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:14,376 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=100 coreset samples DONE - Time took 1.7977673440000217 - 6 iterations - NMI = 0.07937239727609081
+2025-06-16 17:23:14,384 - INFO - KMeans - plot - NMI score: 0.0794
+2025-06-16 17:23:14,384 - INFO - KMeans - plot - Runtime: 1.7978 seconds
+2025-06-16 17:23:14,385 - INFO - KMeans - plot - Iterations: 6
+2025-06-16 17:23:14,385 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-16 17:23:14,385 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-16 17:23:18,924 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.07406084965102064 - AVG TIME=1.7885165514000618 - WITH M=100
+2025-06-16 17:23:18,924 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-16 17:23:18,953 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:20,779 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.788271827999779 - 13 iterations - NMI = 0.07771007697125869
+2025-06-16 17:23:20,787 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:20,815 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:22,636 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.78423209399989 - 17 iterations - NMI = 0.07641391700168886
+2025-06-16 17:23:22,644 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:22,671 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:24,501 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.7881188759997713 - 24 iterations - NMI = 0.0789342616487217
+2025-06-16 17:23:24,509 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:24,536 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:26,360 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.7841798839999683 - 13 iterations - NMI = 0.0772050210080239
+2025-06-16 17:23:26,367 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:26,394 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:28,214 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.7771315370000593 - 23 iterations - NMI = 0.07609402364918101
+2025-06-16 17:23:28,222 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:28,249 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=1000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:30,076 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=1000 coreset samples DONE - Time took 1.7879520289998254 - 14 iterations - NMI = 0.0794703406505991
+2025-06-16 17:23:30,083 - INFO - KMeans - plot - NMI score: 0.0795
+2025-06-16 17:23:30,084 - INFO - KMeans - plot - Runtime: 1.7880 seconds
+2025-06-16 17:23:30,084 - INFO - KMeans - plot - Iterations: 14
+2025-06-16 17:23:30,084 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-16 17:23:30,085 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-16 17:23:34,607 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.07727146005577483 - AVG TIME=1.7843868437998935 - WITH M=1000
+2025-06-16 17:23:34,607 - INFO - __main__ - <module> - ---------------------- STARTING RUN AVG --------------------
+2025-06-16 17:23:34,635 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:36,574 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.8983695050001188 - 73 iterations - NMI = 0.07816045668799129
+2025-06-16 17:23:36,582 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:36,609 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:38,569 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.9175732849998894 - 44 iterations - NMI = 0.07746167363088814
+2025-06-16 17:23:38,576 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:38,603 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:40,552 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.9112203180002325 - 38 iterations - NMI = 0.07789742778536614
+2025-06-16 17:23:40,559 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:40,588 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:42,551 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.9277963459999228 - 74 iterations - NMI = 0.07799492003502576
+2025-06-16 17:23:42,559 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:42,587 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:44,552 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.929108461999931 - 44 iterations - NMI = 0.07673883458808539
+2025-06-16 17:23:44,559 - INFO - __main__ - <module> - ---------------------- NEW RUN AVG --------------------
+2025-06-16 17:23:44,560 - INFO - __main__ - <module> - --------------------------- FINAL RUN FOR STATISTICS ---------------------------
+2025-06-16 17:23:44,588 - INFO - KMeans - fit_with_core_sets - Starting KMeans with core sets of m=10000, k=10, alpha=2, datashape shape=(581012, 54)
+2025-06-16 17:23:46,580 - INFO - KMeans - fit_with_core_sets - Coreset-based KMeans fit with m=10000 coreset samples DONE - Time took 1.9573435290003545 - 38 iterations - NMI = 0.07645962194639906
+2025-06-16 17:23:46,588 - INFO - KMeans - plot - NMI score: 0.0765
+2025-06-16 17:23:46,588 - INFO - KMeans - plot - Runtime: 1.9573 seconds
+2025-06-16 17:23:46,589 - INFO - KMeans - plot - Iterations: 38
+2025-06-16 17:23:46,589 - INFO - KMeans - plot - Distance calculations: 0
+2025-06-16 17:23:46,589 - INFO - KMeans - plot - Applying PCA for plotting since data has more then 2 dimensions
+2025-06-16 17:23:51,120 - INFO - __main__ - <module> - Core Sets K-Means STATS: AVG NMI=0.07765066254547134 - AVG TIME=1.9168135832000188 - WITH M=10000
