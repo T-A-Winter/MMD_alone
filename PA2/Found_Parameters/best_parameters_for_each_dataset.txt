@@ -1,0 +1,14 @@
+# Best configurations by tail-avg-loss
+# Generated at 2025-05-11T23:41:36
+higgs: optimiser=adagrad, batch_size=256, with_rff=False, lr=1.0, l2_radius=5.0, tail_avg_loss=0.890555
+higgs: optimiser=momentum, batch_size=8, with_rff=False, lr=0.1, l2_radius=5.0, tail_avg_loss=0.889134
+higgs: optimiser=sgd, batch_size=1, with_rff=False, lr=1.0, l2_radius=5.0, tail_avg_loss=0.888399
+imdb: optimiser=adagrad, batch_size=1, with_rff=True, lr=1.0, l2_radius=5.0, tail_avg_loss=0.841205
+imdb: optimiser=momentum, batch_size=1, with_rff=False, lr=0.05, l2_radius=5.0, tail_avg_loss=0.795759
+imdb: optimiser=sgd, batch_size=1, with_rff=False, lr=1.0, l2_radius=5.0, tail_avg_loss=0.794555
+toydata_small: optimiser=adagrad, batch_size=8, with_rff=True, lr=1.77, l2_radius=4.9, tail_avg_loss=0.149103
+toydata_small: optimiser=momentum, batch_size=128, with_rff=True, lr=1.83, l2_radius=4.9, tail_avg_loss=0.151292
+toydata_small: optimiser=sgd, batch_size=1, with_rff=True, lr=1.87, l2_radius=4.9, tail_avg_loss=0.142730
+toydata_tiny: optimiser=adagrad, batch_size=8, with_rff=True, lr=1.87, l2_radius=4.9, tail_avg_loss=0.343180
+toydata_tiny: optimiser=momentum, batch_size=128, with_rff=True, lr=1.43, l2_radius=4.9, tail_avg_loss=0.345590
+toydata_tiny: optimiser=sgd, batch_size=1, with_rff=True, lr=1.99, l2_radius=4.9, tail_avg_loss=0.325794
